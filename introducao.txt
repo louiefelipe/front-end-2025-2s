@@ -1,0 +1,11 @@
+HTML
+
+Marcações: tags <>
+Open in Browser
+
+--------
+domínios https://
+IP
+DNS
+
+Propagação do DNS
