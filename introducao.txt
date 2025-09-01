@@ -9,3 +9,11 @@ IP
 DNS
 
 Propagação do DNS
+---------
+
+Helllo2 - Live server
+<h>
+<p>
+<br>
+
+Atalho para criar codigo: ! + enter
