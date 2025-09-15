@@ -1,0 +1,24 @@
+h2{
+    text-align: center;
+}
+
+h2.pag:nth-child(2) a{
+    color:rgb(175, 83, 71);
+}
+
+h2.pag:nth-child(3) a{
+    color:rgb(51, 116, 116);
+}
+
+h2.pag:nth-child(4) a{
+    color:rgb(155, 95, 155);
+    pointer-events: stroke;
+}
+
+a{
+    text-decoration: solid;
+}
+
+a:hover{
+    color: rgb(177, 214, 108);
+}
